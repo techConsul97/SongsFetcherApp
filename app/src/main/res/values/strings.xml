@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Fetcher</string>
+    <string name="pop_category">Pop</string>
+    <string name="classic_category">Classic</string>
+    <string name="rock_category">Rock</string>
+    <string name="song">SONG</string>
+    <string name="rock">Rock</string>
+    <string name="classic">Classic</string>
+    <string name="pop">Pop</string>
+
+</resources>
